@@ -2,6 +2,8 @@
 
 传感星云是一款面向 Apple Silicon Mac 的本地硬件传感器可视化应用。它将 Mac 的运动、环境、触控板和设备状态数据转换为直观的实时界面，并提供与真实姿态同步的 3D MacBook 展示。
 
+![传感星云实时 3D 姿态界面](docs/images/sensor-nebula-overview.png)
+
 ## 主要功能
 
 - 实时显示三轴加速度、角速度与微振动波形
